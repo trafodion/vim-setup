@@ -388,7 +388,8 @@ Includes the following files :
 Summary
 -------
 
-This is a mirror of http://www.vim.org/scripts/script.php?script_id=1334
+This is a combined version of  http://www.vim.org/scripts/script.php?script_id=1334 and
+http://www.vim.org/scripts/script.php?script_id=1743
 
 Requires Vim7.
 
